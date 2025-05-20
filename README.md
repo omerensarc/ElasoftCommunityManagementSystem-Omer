@@ -56,6 +56,14 @@ Giriş yapan her kullanıcı için kişiselleştirilmiş bir arayüz sağlar.
 ![Profil](https://imgur.com/95J0ng6.png)
 
 ---
+### 🛠️ Admin – Topluluk Yönetim Paneli
+
+Sistemdeki tüm kulüplerin yönetimi admin kullanıcı tarafından gerçekleştirilir.  
+Admin, topluluk bilgilerini görüntüleyebilir, düzenleyebilir veya silebilir.  
+Ayrıca her kulübün istatistiklerine ve durumuna tek panelden erişim sağlar.
+
+![Admin Clubs](https://imgur.com/undefined.png)
+
 ---
 
 ## 🙋‍♂️ About the Developer
