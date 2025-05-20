@@ -29,42 +29,43 @@ It allows student clubs to manage events, members, applications, announcements, 
 
 ## 📸 Screenshots
 
-Uygulamanın bazı temel arayüzlerini aşağıda görebilirsiniz:
-### 🧭 Dashboard (Öğrenci Paneli)
+Below are some core interface pages from the application:
 
-Kullanıcının sistemdeki genel durumu, katıldığı kulüpler ve etkinlikler burada görüntülenir.  
-Hızlı erişim butonları sayesinde etkinlik ve profil işlemlerine kolay erişim sağlanır.
+---
+
+### 🧭 Dashboard (Student Panel)
+
+Displays the user's overall activity within the system, including joined clubs and active events.  
+Quick-access buttons provide easy navigation to events, clubs, and profile settings.
 
 ![Dashboard](https://imgur.com/LeuYF9l.png)
 
 ---
 
-### 👥 Topluluklar Sayfası
+### 👥 Clubs Page
 
-Öğrencilerin dahil olabileceği tüm topluluklar burada listelenir.  
-Aktiflik durumu, üye ve etkinlik sayısı gibi bilgilerle birlikte toplulukları yönetme imkânı sunar.
+Lists all available student clubs with status labels, member counts, and event numbers.  
+Users can browse, apply, or manage clubs depending on their roles.
 
-![Topluluklar](https://imgur.com/SfpaTBx.png)
+![Clubs](https://imgur.com/SfpaTBx.png)
 
 ---
 
-### 👤 Profil Sayfası
+### 👤 Profile Page
 
-Kullanıcılar kendi profil bilgilerini görüntüleyebilir, güncelleyebilir veya şifrelerini değiştirebilir.  
-Giriş yapan her kullanıcı için kişiselleştirilmiş bir arayüz sağlar.
+Users can view and update their personal information, including email and password.  
+This page offers a personalized experience for each user.
 
-![Profil](https://imgur.com/95J0ng6.png)
+![Profile](https://imgur.com/95J0ng6.png)
 
-### 🛠️ Admin – Topluluk Yönetim Paneli
+---
 
-Sistemdeki tüm kulüplerin yönetimi admin kullanıcı tarafından gerçekleştirilir.  
-Admin, topluluk bilgilerini görüntüleyebilir, düzenleyebilir veya silebilir.  
-Ayrıca her kulübün istatistiklerine ve durumuna tek panelden erişim sağlar.
+### 🛠️ Admin – Club Management Panel
+
+Admin users can access and manage all clubs in the system.  
+They can view, edit, or delete club records and monitor overall statistics from a centralized interface.
 
 ![Admin Clubs](https://i.imgur.com/dnja0QK.png)
-
-
----
 
 ## 🙋‍♂️ About the Developer
 
