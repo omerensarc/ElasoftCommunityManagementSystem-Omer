@@ -27,32 +27,35 @@ It allows student clubs to manage events, members, applications, announcements, 
 
 ---
 
-## 📁 Folder Structure
+## 📸 Screenshots
 
-ElasoftCommunityManagementSystem-Omer
-│
-├── Backend
-│ ├── Controllers
-│ ├── Models
-│ ├── DTOs
-│ ├── Services
-│ └── Migrations
-│
-├── Frontend
-│ ├── src
-│ │ ├── views
-│ │ ├── components
-│ │ └── router
-│
-├── .gitignore
-└── README.md
+Uygulamanın bazı temel arayüzlerini aşağıda görebilirsiniz:
+### 🧭 Dashboard (Öğrenci Paneli)
+
+Kullanıcının sistemdeki genel durumu, katıldığı kulüpler ve etkinlikler burada görüntülenir.  
+Hızlı erişim butonları sayesinde etkinlik ve profil işlemlerine kolay erişim sağlanır.
+
+![Dashboard](https://imgur.com/LeuYF9l.png)
 
 ---
 
-## 📸 Screenshots (Optional)
+### 👥 Topluluklar Sayfası
 
-> *Add some images of the app here if available (ex: dashboard, event form, etc.)*
+Öğrencilerin dahil olabileceği tüm topluluklar burada listelenir.  
+Aktiflik durumu, üye ve etkinlik sayısı gibi bilgilerle birlikte toplulukları yönetme imkânı sunar.
 
+![Topluluklar](https://imgur.com/SfpaTBx.png)
+
+---
+
+### 👤 Profil Sayfası
+
+Kullanıcılar kendi profil bilgilerini görüntüleyebilir, güncelleyebilir veya şifrelerini değiştirebilir.  
+Giriş yapan her kullanıcı için kişiselleştirilmiş bir arayüz sağlar.
+
+![Profil](https://imgur.com/95J0ng6.png)
+
+---
 ---
 
 ## 🙋‍♂️ About the Developer
