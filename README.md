@@ -62,7 +62,7 @@ Sistemdeki tüm kulüplerin yönetimi admin kullanıcı tarafından gerçekleşt
 Admin, topluluk bilgilerini görüntüleyebilir, düzenleyebilir veya silebilir.  
 Ayrıca her kulübün istatistiklerine ve durumuna tek panelden erişim sağlar.
 
-![Admin Clubs](https://imgur.com/undefined.png)
+![Admin Clubs](https://imgur.com/dnja0QK)
 
 ---
 
